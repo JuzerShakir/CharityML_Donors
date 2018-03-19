@@ -5,7 +5,7 @@
 ### Table Of Contents:
 - [Description](#description)<br>
 - [Data](#data)<br>
-- [Let's Begin](#let's-begin)<br>
+- [Let's Begin](#lets-begin)<br>
 - [Conclusion](#conclusion)<br>
 
 ----
@@ -57,7 +57,7 @@ The modified census dataset consists of approximately 32,000 data points, with e
 - `income`: Income Class (<=50K, >50K)
 
 -----
-### Let's Begin
+### Lets Begin
 
 #### Requirements
 
