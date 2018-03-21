@@ -85,7 +85,7 @@ or
 jupyter notebook Finding_Donors.ipynb
 ```
 
-This will open the iPython Notebook software and project file in your browser.
+This will open the Jupyter/iPython Notebook software and project file in your browser.
 
 -----
 
