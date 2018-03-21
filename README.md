@@ -30,7 +30,7 @@ This project is designed to get us acquainted with the many supervised learning 
 
 #### Files
 
-Template code is provided in the `finding_donors.ipynb` notebook file. We will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete this work. While some code has already been implemented to get us started, We will need to implement additional functionality when requested to successfully complete the project. 
+Template code is provided in the `Finding_Donors.ipynb` notebook file. We will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete this work. While some code has already been implemented to get us started, We will need to implement additional functionality when requested to successfully complete the project. 
 
 > **Note: The code included in `visuals.py` is meant to be used out-of-the-box and not intended to be manipulate.** If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
@@ -75,14 +75,14 @@ I recommend to install [Anaconda](https://www.continuum.io/downloads), a pre-pac
 
 #### Execution
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Finding_CharityML_Donors/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook finding_donors.ipynb
+ipython notebook Finding_Donors.ipynb
 ```  
 or
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter notebook Finding_Donors.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
