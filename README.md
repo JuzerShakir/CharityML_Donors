@@ -102,6 +102,6 @@ This will open the Jupyter/iPython Notebook software and project file in your br
 
 This project was reviewed by a Udacity reviewer against the [Finding Donors for CharityML project rubric](https://review.udacity.com/#!/rubrics/406/view).
 
-[My Project Review by an Udacity Reviewer]()
+[My Project Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/1224180)
 
 -----
