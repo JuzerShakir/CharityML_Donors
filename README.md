@@ -4,7 +4,7 @@
 
 ### Table Of Contents:
 - [Description](#description)<br>
-    - [About the project](#about-the-project)<br>
+    - [About CharityML & Project](#about-charityml-&-project)<br>
     - [What needs to be done](#what-needs-to-be-done)<br>
     - [Why this project](#why-this-project)<br>
 - [Data](#data)<br>
@@ -68,7 +68,7 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 -----
 
-### Lets Begin
+### Loading Project
 
 #### Requirements
 
