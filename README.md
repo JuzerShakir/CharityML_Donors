@@ -4,9 +4,19 @@
 
 ### Table Of Contents:
 - [Description](#description)<br>
+    - [About the project](#about-the-project)<br>
+    - [What needs to be done](#what-needs-to-be-done)<br>
+    - [Why this project](#why-this-project)<br>
 - [Data](#data)<br>
-- [Let's Begin](#lets-begin)<br>
+    - [Files](#files)<br>
+    - [Dataset file](#dataset-file)<br>
+- [Loading Project](#loading-project)<br>
+    - [Requirements](#requirements)<br>
+    - [Execution](#execution)<br>
 - [Conclusion](#conclusion)<br>
+    - [What I learned](#what-i-learned)<br>
+    - [Evaluation](#evaluation)
+    - [Results](#results)
 
 ----
 
@@ -16,11 +26,11 @@
 
 CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually. To expand their potential donor base, CharityML has decided to send letters to residents of California, but to only those most likely to donate to the charity. With nearly 15 million working Californians, CharityML has brought us on board to help build an algorithm to best identify potential donors and reduce overhead cost of sending mail. Our goal will be evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
 
-#### What needs to be done?
+#### What needs to be done
 
 In this project, we will apply supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. We will first explore the data to learn how the census data is recorded. Next, we will apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. We will then evaluate several supervised learners of our choice on the data, and consider which is best suited for the solution. Afterwards, We will optimize the model that we have selected and present it as our solution to CharityML. Finally, We will explore the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
 
-#### Why this Project?
+#### Why this Project
 
 This project is designed to get us acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
 
@@ -92,7 +102,7 @@ This will open the Jupyter/iPython Notebook software and project file in your br
 
 ### Conclusion
 
-#### Things we'll learn by completing this project:
+#### What I learned
 
 - How to identify when preprocessing is needed, and how to apply it.
 - How to establish a benchmark for a solution to the problem.
@@ -102,6 +112,8 @@ This will open the Jupyter/iPython Notebook software and project file in your br
 #### Evaluation
 
 This project was reviewed by a Udacity reviewer against the [Finding Donors for CharityML project rubric](https://review.udacity.com/#!/rubrics/406/view). All criteria found in the rubric must be *meeting specifications* for me to pass.
+
+#### Results
 
 [My Project Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/1224180)
 
