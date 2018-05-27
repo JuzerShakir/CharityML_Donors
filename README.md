@@ -40,6 +40,12 @@ This project is designed to get us acquainted with the many supervised learning 
 
 #### Files
 
+This project contains 3 files and 1 folder:
+- `Finding_Donors.ipynb` : This is the main file where I will be performing my work on the project.
+- `censes.csv` : The dataset required for the project. I'll load this dataset in notebook.
+- `visuals.py`: This Python script provides supplementary visualizations for the project.
+- `export/` : Folder containing HTML and PDF version file of notebook.
+
 Template code is provided in the `Finding_Donors.ipynb` notebook file. We will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete this work. While some code has already been implemented to get us started, We will need to implement additional functionality when requested to successfully complete the project. 
 
 > **Note: The code included in `visuals.py` is meant to be used out-of-the-box and not intended to be manipulate.** If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
@@ -74,6 +80,7 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 This project requires **Python 3.6.4** and the following Python libraries installed:
 
+- [Python 3.6.4](https://www.python.org/downloads/release/python-364/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
