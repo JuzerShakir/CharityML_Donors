@@ -2,6 +2,10 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+<p align = 'center'><img src = 'logo.jpg', height=412, width =412></p>
+
+-----
+
 ### Table Of Contents:
 - [Description](#description)<br>
     - [About CharityML Project](#about-charityml-project)<br>
