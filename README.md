@@ -2,7 +2,7 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-<p align = 'center'><img src = 'logo.png', height=412, width =562></p>
+<p align = 'center'><img src = 'logo.png', height=412, width =632></p>
 
 -----
 
