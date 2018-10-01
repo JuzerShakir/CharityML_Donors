@@ -51,7 +51,7 @@ This project contains 3 files and 1 folder:
 - `export/` : Folder containing HTML and PDF version file of notebook.
 - `plots/` : Contains images of all the plots that are displayed in `report.ipynb` file.
 
-Template code is provided in the `Finding_Donors.ipynb` notebook file. We will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete this work. While some code has already been implemented to get us started, We will need to implement additional functionality when requested to successfully complete the project. 
+Template code is provided in the `report.ipynb` notebook file. We will also be required to use the included `visuals.py` Python file and the `data.csv` dataset file to complete this work. While some code has already been implemented to get us started, We will need to implement additional functionality when requested to successfully complete the project. 
 
 > **Note: The code included in `visuals.py` is meant to be used out-of-the-box and not intended to be manipulate.** If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
@@ -101,11 +101,11 @@ I recommend to install [Anaconda](https://www.anaconda.com/download/), a pre-pac
 In a terminal or command window, navigate to the top-level project directory `Finding-Donors-CharityML/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook Finding_Donors.ipynb
+ipython notebook report.ipynb
 ```  
 or
 ```bash
-jupyter notebook Finding_Donors.ipynb
+jupyter notebook report.ipynb
 ```
 or if you have 'Jupyter Lab' installed
 ```bash
