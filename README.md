@@ -45,8 +45,8 @@ This project is designed to get us acquainted with the many supervised learning 
 #### Files
 
 This project contains 3 files and 1 folder:
-- `Finding_Donors.ipynb` : This is the main file where I will be performing my work on the project.
-- `censes.csv` : The dataset required for the project. I'll load this dataset in notebook.
+- `report.ipynb` : This is the main file where I will be performing my work on the project.
+- `data.csv` : The dataset required for the project. I'll load this dataset in notebook.
 - `visuals.py`: This Python script provides supplementary visualizations for the project.
 - `export/` : Folder containing HTML and PDF version file of notebook.
 
