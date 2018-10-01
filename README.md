@@ -49,6 +49,7 @@ This project contains 3 files and 1 folder:
 - `data.csv` : The dataset required for the project. I'll load this dataset in notebook.
 - `visuals.py`: This Python script provides supplementary visualizations for the project.
 - `export/` : Folder containing HTML and PDF version file of notebook.
+- `plots/` : Contains images of all the plots that are displayed in `report.ipynb` file.
 
 Template code is provided in the `Finding_Donors.ipynb` notebook file. We will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete this work. While some code has already been implemented to get us started, We will need to implement additional functionality when requested to successfully complete the project. 
 
